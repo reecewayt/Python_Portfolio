@@ -1,0 +1,1873 @@
+{
+    "id": "97214",
+    "zipCode": "97214",
+    "rentalData": {
+        "averageRent": 1769,
+        "minRent": 500,
+        "maxRent": 4995,
+        "totalRentals": 216,
+        "detailed": [
+            {
+                "bedrooms": 0,
+                "averageRent": 1238,
+                "minRent": 995,
+                "maxRent": 1555,
+                "totalRentals": 28
+            },
+            {
+                "bedrooms": 1,
+                "averageRent": 1428,
+                "minRent": 500,
+                "maxRent": 2700,
+                "totalRentals": 91
+            },
+            {
+                "bedrooms": 2,
+                "averageRent": 1887,
+                "minRent": 1295,
+                "maxRent": 3100,
+                "totalRentals": 67
+            },
+            {
+                "bedrooms": 3,
+                "averageRent": 2651,
+                "minRent": 850,
+                "maxRent": 3900,
+                "totalRentals": 18
+            },
+            {
+                "bedrooms": 4,
+                "averageRent": 3553,
+                "minRent": 750,
+                "maxRent": 4995,
+                "totalRentals": 10
+            },
+            {
+                "bedrooms": 5,
+                "averageRent": 3898,
+                "minRent": 3795,
+                "maxRent": 4000,
+                "totalRentals": 2
+            }
+        ],
+        "history": {
+            "2020-04": {
+                "averageRent": 2181.38,
+                "minRent": 650,
+                "maxRent": 3500,
+                "totalRentals": 201,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1208.94,
+                        "minRent": 900,
+                        "maxRent": 1695,
+                        "totalRentals": 49
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1316.4,
+                        "minRent": 650,
+                        "maxRent": 2095,
+                        "totalRentals": 78
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1803.39,
+                        "minRent": 1195,
+                        "maxRent": 3200,
+                        "totalRentals": 57
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2464.53,
+                        "minRent": 1700,
+                        "maxRent": 3500,
+                        "totalRentals": 15
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 2995,
+                        "minRent": 2995,
+                        "maxRent": 2995,
+                        "totalRentals": 1
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3300,
+                        "minRent": 3300,
+                        "maxRent": 3300,
+                        "totalRentals": 1
+                    }
+                ]
+            },
+            "2020-05": {
+                "averageRent": 2019.24,
+                "minRent": 650,
+                "maxRent": 3500,
+                "totalRentals": 193,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1181.07,
+                        "minRent": 900,
+                        "maxRent": 1538,
+                        "totalRentals": 44
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1319.3,
+                        "minRent": 650,
+                        "maxRent": 1995,
+                        "totalRentals": 79
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1770.98,
+                        "minRent": 1195,
+                        "maxRent": 3200,
+                        "totalRentals": 50
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2524.84,
+                        "minRent": 1700,
+                        "maxRent": 3500,
+                        "totalRentals": 19
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3300,
+                        "minRent": 3300,
+                        "maxRent": 3300,
+                        "totalRentals": 1
+                    }
+                ]
+            },
+            "2020-06": {
+                "averageRent": 2303.85,
+                "minRent": 650,
+                "maxRent": 5950,
+                "totalRentals": 208,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1187.94,
+                        "minRent": 900,
+                        "maxRent": 1555,
+                        "totalRentals": 48
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1321.19,
+                        "minRent": 650,
+                        "maxRent": 1995,
+                        "totalRentals": 88
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1787.2,
+                        "minRent": 1230,
+                        "maxRent": 3200,
+                        "totalRentals": 50
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2597.9,
+                        "minRent": 1700,
+                        "maxRent": 3500,
+                        "totalRentals": 20
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 4625,
+                        "minRent": 3300,
+                        "maxRent": 5950,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2020-07": {
+                "averageRent": 2325.5,
+                "minRent": 650,
+                "maxRent": 5950,
+                "totalRentals": 206,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1188.51,
+                        "minRent": 900,
+                        "maxRent": 1555,
+                        "totalRentals": 45
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1315.87,
+                        "minRent": 650,
+                        "maxRent": 1995,
+                        "totalRentals": 92
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1766.06,
+                        "minRent": 1230,
+                        "maxRent": 3200,
+                        "totalRentals": 47
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2558.05,
+                        "minRent": 1700,
+                        "maxRent": 3500,
+                        "totalRentals": 19
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 2800,
+                        "minRent": 2800,
+                        "maxRent": 2800,
+                        "totalRentals": 1
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 5950,
+                        "minRent": 5950,
+                        "maxRent": 5950,
+                        "totalRentals": 1
+                    },
+                    {
+                        "bedrooms": 7,
+                        "averageRent": 700,
+                        "minRent": 700,
+                        "maxRent": 700,
+                        "totalRentals": 1
+                    }
+                ]
+            },
+            "2020-08": {
+                "averageRent": 2359.94,
+                "minRent": 700,
+                "maxRent": 5950,
+                "totalRentals": 201,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1215.12,
+                        "minRent": 900,
+                        "maxRent": 1600,
+                        "totalRentals": 43
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1310.02,
+                        "minRent": 715,
+                        "maxRent": 1995,
+                        "totalRentals": 84
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1765.67,
+                        "minRent": 1230,
+                        "maxRent": 3200,
+                        "totalRentals": 52
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2681.28,
+                        "minRent": 1695,
+                        "maxRent": 3500,
+                        "totalRentals": 18
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 2897.5,
+                        "minRent": 2800,
+                        "maxRent": 2995,
+                        "totalRentals": 2
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 5950,
+                        "minRent": 5950,
+                        "maxRent": 5950,
+                        "totalRentals": 1
+                    },
+                    {
+                        "bedrooms": 7,
+                        "averageRent": 700,
+                        "minRent": 700,
+                        "maxRent": 700,
+                        "totalRentals": 1
+                    }
+                ]
+            },
+            "2020-09": {
+                "averageRent": 2252.24,
+                "minRent": 700,
+                "maxRent": 5950,
+                "totalRentals": 209,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1196.79,
+                        "minRent": 725,
+                        "maxRent": 1600,
+                        "totalRentals": 43
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1308.33,
+                        "minRent": 715,
+                        "maxRent": 1895,
+                        "totalRentals": 88
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1777.09,
+                        "minRent": 1250,
+                        "maxRent": 2800,
+                        "totalRentals": 55
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2675.94,
+                        "minRent": 1695,
+                        "maxRent": 3500,
+                        "totalRentals": 16
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3135,
+                        "minRent": 2800,
+                        "maxRent": 3495,
+                        "totalRentals": 4
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 4972.5,
+                        "minRent": 3995,
+                        "maxRent": 5950,
+                        "totalRentals": 2
+                    },
+                    {
+                        "bedrooms": 7,
+                        "averageRent": 700,
+                        "minRent": 700,
+                        "maxRent": 700,
+                        "totalRentals": 1
+                    }
+                ]
+            },
+            "2020-10": {
+                "averageRent": 2104.3,
+                "minRent": 700,
+                "maxRent": 3850,
+                "totalRentals": 234,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1208.31,
+                        "minRent": 725,
+                        "maxRent": 1600,
+                        "totalRentals": 45
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1302.06,
+                        "minRent": 715,
+                        "maxRent": 1895,
+                        "totalRentals": 103
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1760.65,
+                        "minRent": 1250,
+                        "maxRent": 2800,
+                        "totalRentals": 62
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2722.06,
+                        "minRent": 1695,
+                        "maxRent": 3500,
+                        "totalRentals": 17
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3187,
+                        "minRent": 2800,
+                        "maxRent": 3495,
+                        "totalRentals": 5
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3850,
+                        "minRent": 3850,
+                        "maxRent": 3850,
+                        "totalRentals": 1
+                    },
+                    {
+                        "bedrooms": 7,
+                        "averageRent": 700,
+                        "minRent": 700,
+                        "maxRent": 700,
+                        "totalRentals": 1
+                    }
+                ]
+            },
+            "2020-11": {
+                "averageRent": 2060.02,
+                "minRent": 610,
+                "maxRent": 3600,
+                "totalRentals": 224,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1196.87,
+                        "minRent": 725,
+                        "maxRent": 1644,
+                        "totalRentals": 45
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1290.68,
+                        "minRent": 610,
+                        "maxRent": 1895,
+                        "totalRentals": 98
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1752.96,
+                        "minRent": 800,
+                        "maxRent": 2800,
+                        "totalRentals": 57
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2648.33,
+                        "minRent": 1295,
+                        "maxRent": 3500,
+                        "totalRentals": 18
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3283.75,
+                        "minRent": 2995,
+                        "maxRent": 3495,
+                        "totalRentals": 4
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 2187.5,
+                        "minRent": 775,
+                        "maxRent": 3600,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2020-12": {
+                "averageRent": 2108.43,
+                "minRent": 558,
+                "maxRent": 3600,
+                "totalRentals": 212,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1170.38,
+                        "minRent": 725,
+                        "maxRent": 1600,
+                        "totalRentals": 42
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1298.29,
+                        "minRent": 558,
+                        "maxRent": 2195,
+                        "totalRentals": 95
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1747.58,
+                        "minRent": 800,
+                        "maxRent": 2800,
+                        "totalRentals": 53
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2491,
+                        "minRent": 1295,
+                        "maxRent": 2995,
+                        "totalRentals": 15
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3385,
+                        "minRent": 3250,
+                        "maxRent": 3495,
+                        "totalRentals": 4
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 2558.33,
+                        "minRent": 775,
+                        "maxRent": 3600,
+                        "totalRentals": 3
+                    }
+                ]
+            },
+            "2021-01": {
+                "averageRent": 2091.76,
+                "minRent": 558,
+                "maxRent": 3600,
+                "totalRentals": 186,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1149.63,
+                        "minRent": 725,
+                        "maxRent": 1575,
+                        "totalRentals": 38
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1278.13,
+                        "minRent": 558,
+                        "maxRent": 2195,
+                        "totalRentals": 84
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1703.04,
+                        "minRent": 800,
+                        "maxRent": 2695,
+                        "totalRentals": 45
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2513.08,
+                        "minRent": 1245,
+                        "maxRent": 2995,
+                        "totalRentals": 13
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3348.33,
+                        "minRent": 3250,
+                        "maxRent": 3400,
+                        "totalRentals": 3
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 2558.33,
+                        "minRent": 775,
+                        "maxRent": 3600,
+                        "totalRentals": 3
+                    }
+                ]
+            },
+            "2021-02": {
+                "averageRent": 2104.24,
+                "minRent": 548,
+                "maxRent": 3600,
+                "totalRentals": 192,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1180.69,
+                        "minRent": 725,
+                        "maxRent": 1635,
+                        "totalRentals": 42
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1308.6,
+                        "minRent": 548,
+                        "maxRent": 2195,
+                        "totalRentals": 86
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1677.8,
+                        "minRent": 800,
+                        "maxRent": 2650,
+                        "totalRentals": 49
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2500,
+                        "minRent": 1675,
+                        "maxRent": 2995,
+                        "totalRentals": 11
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3400,
+                        "minRent": 3400,
+                        "maxRent": 3400,
+                        "totalRentals": 1
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 2558.33,
+                        "minRent": 775,
+                        "maxRent": 3600,
+                        "totalRentals": 3
+                    }
+                ]
+            },
+            "2021-03": {
+                "averageRent": 2251.35,
+                "minRent": 681,
+                "maxRent": 3600,
+                "totalRentals": 172,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1206.43,
+                        "minRent": 725,
+                        "maxRent": 1759,
+                        "totalRentals": 40
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1304.76,
+                        "minRent": 681,
+                        "maxRent": 2195,
+                        "totalRentals": 79
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1668.56,
+                        "minRent": 1199,
+                        "maxRent": 2650,
+                        "totalRentals": 41
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2478.33,
+                        "minRent": 1675,
+                        "maxRent": 2995,
+                        "totalRentals": 9
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3400,
+                        "minRent": 3400,
+                        "maxRent": 3400,
+                        "totalRentals": 1
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3450,
+                        "minRent": 3300,
+                        "maxRent": 3600,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2021-04": {
+                "averageRent": 1562,
+                "minRent": 681,
+                "maxRent": 2650,
+                "totalRentals": 135,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1218.71,
+                        "minRent": 950,
+                        "maxRent": 1759,
+                        "totalRentals": 42
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1288.19,
+                        "minRent": 681,
+                        "maxRent": 1800,
+                        "totalRentals": 59
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1637.37,
+                        "minRent": 1199,
+                        "maxRent": 2650,
+                        "totalRentals": 30
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2103.75,
+                        "minRent": 1675,
+                        "maxRent": 2395,
+                        "totalRentals": 4
+                    }
+                ]
+            },
+            "2021-05": {
+                "averageRent": 1582.99,
+                "minRent": 681,
+                "maxRent": 2650,
+                "totalRentals": 138,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1233.37,
+                        "minRent": 950,
+                        "maxRent": 1759,
+                        "totalRentals": 43
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1285.56,
+                        "minRent": 681,
+                        "maxRent": 1800,
+                        "totalRentals": 59
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1709.28,
+                        "minRent": 1249,
+                        "maxRent": 2650,
+                        "totalRentals": 32
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2103.75,
+                        "minRent": 1675,
+                        "maxRent": 2395,
+                        "totalRentals": 4
+                    }
+                ]
+            },
+            "2021-06": {
+                "averageRent": 1694.27,
+                "minRent": 681,
+                "maxRent": 2700,
+                "totalRentals": 135,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1228.75,
+                        "minRent": 950,
+                        "maxRent": 1759,
+                        "totalRentals": 44
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1276.07,
+                        "minRent": 681,
+                        "maxRent": 1800,
+                        "totalRentals": 59
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1724.77,
+                        "minRent": 1249,
+                        "maxRent": 2650,
+                        "totalRentals": 30
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2547.5,
+                        "minRent": 2395,
+                        "maxRent": 2700,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2021-11": {
+                "averageRent": 2189.73,
+                "minRent": 200,
+                "maxRent": 4900,
+                "totalRentals": 180,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1238.1,
+                        "minRent": 200,
+                        "maxRent": 2248,
+                        "totalRentals": 51
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1372.89,
+                        "minRent": 815,
+                        "maxRent": 2125,
+                        "totalRentals": 64
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1956.43,
+                        "minRent": 1375,
+                        "maxRent": 2850,
+                        "totalRentals": 49
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2760,
+                        "minRent": 1900,
+                        "maxRent": 3895,
+                        "totalRentals": 12
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3621.25,
+                        "minRent": 2995,
+                        "maxRent": 4900,
+                        "totalRentals": 4
+                    }
+                ]
+            },
+            "2021-12": {
+                "averageRent": 2146.23,
+                "minRent": 750,
+                "maxRent": 4500,
+                "totalRentals": 199,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1261.24,
+                        "minRent": 845,
+                        "maxRent": 2248,
+                        "totalRentals": 51
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1381.05,
+                        "minRent": 750,
+                        "maxRent": 2125,
+                        "totalRentals": 76
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1978.87,
+                        "minRent": 1375,
+                        "maxRent": 2850,
+                        "totalRentals": 54
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2663,
+                        "minRent": 1499,
+                        "maxRent": 3895,
+                        "totalRentals": 13
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3447,
+                        "minRent": 2995,
+                        "maxRent": 4500,
+                        "totalRentals": 5
+                    }
+                ]
+            },
+            "2021-10": {
+                "averageRent": 2137.57,
+                "minRent": 200,
+                "maxRent": 4500,
+                "totalRentals": 233,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1223.81,
+                        "minRent": 200,
+                        "maxRent": 2248,
+                        "totalRentals": 62
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1383.04,
+                        "minRent": 750,
+                        "maxRent": 2125,
+                        "totalRentals": 84
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1952.72,
+                        "minRent": 1295,
+                        "maxRent": 2850,
+                        "totalRentals": 60
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2707.05,
+                        "minRent": 1499,
+                        "maxRent": 3895,
+                        "totalRentals": 19
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3421.25,
+                        "minRent": 2995,
+                        "maxRent": 4500,
+                        "totalRentals": 8
+                    }
+                ]
+            },
+            "2021-09": {
+                "averageRent": 2134.8,
+                "minRent": 200,
+                "maxRent": 4500,
+                "totalRentals": 240,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1223.81,
+                        "minRent": 200,
+                        "maxRent": 2248,
+                        "totalRentals": 62
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1372.47,
+                        "minRent": 750,
+                        "maxRent": 2125,
+                        "totalRentals": 89
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1949.4,
+                        "minRent": 1295,
+                        "maxRent": 2850,
+                        "totalRentals": 62
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2707.05,
+                        "minRent": 1499,
+                        "maxRent": 3895,
+                        "totalRentals": 19
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3421.25,
+                        "minRent": 2995,
+                        "maxRent": 4500,
+                        "totalRentals": 8
+                    }
+                ]
+            },
+            "2021-08": {
+                "averageRent": 2134.68,
+                "minRent": 200,
+                "maxRent": 4500,
+                "totalRentals": 246,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1229.06,
+                        "minRent": 200,
+                        "maxRent": 2248,
+                        "totalRentals": 63
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1372.55,
+                        "minRent": 750,
+                        "maxRent": 2125,
+                        "totalRentals": 91
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1943.51,
+                        "minRent": 1295,
+                        "maxRent": 2850,
+                        "totalRentals": 65
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2707.05,
+                        "minRent": 1499,
+                        "maxRent": 3895,
+                        "totalRentals": 19
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3421.25,
+                        "minRent": 2995,
+                        "maxRent": 4500,
+                        "totalRentals": 8
+                    }
+                ]
+            },
+            "2021-07": {
+                "averageRent": 2135.04,
+                "minRent": 200,
+                "maxRent": 4500,
+                "totalRentals": 250,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1230.72,
+                        "minRent": 200,
+                        "maxRent": 2248,
+                        "totalRentals": 64
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1368.78,
+                        "minRent": 750,
+                        "maxRent": 2125,
+                        "totalRentals": 93
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1947.39,
+                        "minRent": 1295,
+                        "maxRent": 2850,
+                        "totalRentals": 66
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2707.05,
+                        "minRent": 1499,
+                        "maxRent": 3895,
+                        "totalRentals": 19
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3421.25,
+                        "minRent": 2995,
+                        "maxRent": 4500,
+                        "totalRentals": 8
+                    }
+                ]
+            },
+            "2022-01": {
+                "averageRent": 2154.73,
+                "minRent": 750,
+                "maxRent": 4500,
+                "totalRentals": 196,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1234.29,
+                        "minRent": 845,
+                        "maxRent": 2231,
+                        "totalRentals": 48
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1374.21,
+                        "minRent": 750,
+                        "maxRent": 2125,
+                        "totalRentals": 78
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1941.94,
+                        "minRent": 1375,
+                        "maxRent": 2850,
+                        "totalRentals": 52
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2747.23,
+                        "minRent": 1499,
+                        "maxRent": 3895,
+                        "totalRentals": 13
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3476,
+                        "minRent": 2995,
+                        "maxRent": 4500,
+                        "totalRentals": 5
+                    }
+                ]
+            },
+            "2022-02": {
+                "averageRent": 2136.96,
+                "minRent": 750,
+                "maxRent": 4500,
+                "totalRentals": 192,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1241.36,
+                        "minRent": 845,
+                        "maxRent": 2231,
+                        "totalRentals": 45
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1403.41,
+                        "minRent": 750,
+                        "maxRent": 2125,
+                        "totalRentals": 76
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1819.98,
+                        "minRent": 1095,
+                        "maxRent": 2725,
+                        "totalRentals": 54
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2756.73,
+                        "minRent": 1499,
+                        "maxRent": 3895,
+                        "totalRentals": 11
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3463.33,
+                        "minRent": 2995,
+                        "maxRent": 4500,
+                        "totalRentals": 6
+                    }
+                ]
+            },
+            "2022-03": {
+                "averageRent": 2101.34,
+                "minRent": 750,
+                "maxRent": 4500,
+                "totalRentals": 191,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1241.73,
+                        "minRent": 845,
+                        "maxRent": 1677,
+                        "totalRentals": 45
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1383.76,
+                        "minRent": 750,
+                        "maxRent": 2400,
+                        "totalRentals": 75
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1836.56,
+                        "minRent": 1095,
+                        "maxRent": 2725,
+                        "totalRentals": 57
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2598,
+                        "minRent": 1499,
+                        "maxRent": 3495,
+                        "totalRentals": 8
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3446.67,
+                        "minRent": 2995,
+                        "maxRent": 4500,
+                        "totalRentals": 6
+                    }
+                ]
+            },
+            "2022-04": {
+                "averageRent": 1975.27,
+                "minRent": 750,
+                "maxRent": 3595,
+                "totalRentals": 198,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1282,
+                        "minRent": 895,
+                        "maxRent": 2096,
+                        "totalRentals": 40
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1391.06,
+                        "minRent": 750,
+                        "maxRent": 2100,
+                        "totalRentals": 79
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1847.86,
+                        "minRent": 1095,
+                        "maxRent": 2700,
+                        "totalRentals": 63
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2560.45,
+                        "minRent": 1795,
+                        "maxRent": 3495,
+                        "totalRentals": 11
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 2795,
+                        "minRent": 1095,
+                        "maxRent": 3595,
+                        "totalRentals": 5
+                    }
+                ]
+            },
+            "2022-05": {
+                "averageRent": 2063.98,
+                "minRent": 775,
+                "maxRent": 4700,
+                "totalRentals": 192,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1279.67,
+                        "minRent": 895,
+                        "maxRent": 1949,
+                        "totalRentals": 43
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1408.91,
+                        "minRent": 775,
+                        "maxRent": 2100,
+                        "totalRentals": 74
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1883.26,
+                        "minRent": 1095,
+                        "maxRent": 2995,
+                        "totalRentals": 58
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2812.08,
+                        "minRent": 1795,
+                        "maxRent": 4700,
+                        "totalRentals": 12
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 2936,
+                        "minRent": 1095,
+                        "maxRent": 4300,
+                        "totalRentals": 5
+                    }
+                ]
+            },
+            "2022-06": {
+                "averageRent": 2077.93,
+                "minRent": 785,
+                "maxRent": 4495,
+                "totalRentals": 198,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1253.16,
+                        "minRent": 885,
+                        "maxRent": 1756,
+                        "totalRentals": 44
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1415.07,
+                        "minRent": 785,
+                        "maxRent": 2100,
+                        "totalRentals": 76
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1861.53,
+                        "minRent": 1295,
+                        "maxRent": 2995,
+                        "totalRentals": 58
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2738.21,
+                        "minRent": 1795,
+                        "maxRent": 4495,
+                        "totalRentals": 14
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3121.67,
+                        "minRent": 1095,
+                        "maxRent": 4100,
+                        "totalRentals": 6
+                    }
+                ]
+            },
+            "2022-07": {
+                "averageRent": 2117.69,
+                "minRent": 785,
+                "maxRent": 4495,
+                "totalRentals": 191,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1260.55,
+                        "minRent": 845,
+                        "maxRent": 1791,
+                        "totalRentals": 44
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1412.23,
+                        "minRent": 785,
+                        "maxRent": 2100,
+                        "totalRentals": 70
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1883.17,
+                        "minRent": 1295,
+                        "maxRent": 2995,
+                        "totalRentals": 53
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2860,
+                        "minRent": 1795,
+                        "maxRent": 4495,
+                        "totalRentals": 18
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3172.5,
+                        "minRent": 1095,
+                        "maxRent": 4100,
+                        "totalRentals": 6
+                    }
+                ]
+            },
+            "2022-08": {
+                "averageRent": 2244.77,
+                "minRent": 785,
+                "maxRent": 4495,
+                "totalRentals": 187,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1259.88,
+                        "minRent": 795,
+                        "maxRent": 1791,
+                        "totalRentals": 42
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1432.67,
+                        "minRent": 785,
+                        "maxRent": 1995,
+                        "totalRentals": 72
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1937.98,
+                        "minRent": 1295,
+                        "maxRent": 2995,
+                        "totalRentals": 52
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 3005.31,
+                        "minRent": 1795,
+                        "maxRent": 4495,
+                        "totalRentals": 16
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3588,
+                        "minRent": 3195,
+                        "maxRent": 4100,
+                        "totalRentals": 5
+                    }
+                ]
+            },
+            "2022-09": {
+                "averageRent": 2247.55,
+                "minRent": 785,
+                "maxRent": 4495,
+                "totalRentals": 191,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1260.93,
+                        "minRent": 795,
+                        "maxRent": 1791,
+                        "totalRentals": 40
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1444.21,
+                        "minRent": 785,
+                        "maxRent": 1995,
+                        "totalRentals": 72
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 2002.82,
+                        "minRent": 1295,
+                        "maxRent": 2995,
+                        "totalRentals": 55
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2982.65,
+                        "minRent": 1795,
+                        "maxRent": 4495,
+                        "totalRentals": 17
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3547.14,
+                        "minRent": 3195,
+                        "maxRent": 4100,
+                        "totalRentals": 7
+                    }
+                ]
+            },
+            "2022-10": {
+                "averageRent": 2522.94,
+                "minRent": 685,
+                "maxRent": 4000,
+                "totalRentals": 208,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1249.24,
+                        "minRent": 685,
+                        "maxRent": 1791,
+                        "totalRentals": 38
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1464.43,
+                        "minRent": 850,
+                        "maxRent": 2525,
+                        "totalRentals": 82
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 2087.52,
+                        "minRent": 1295,
+                        "maxRent": 2995,
+                        "totalRentals": 64
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2894.44,
+                        "minRent": 1200,
+                        "maxRent": 4000,
+                        "totalRentals": 18
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3507,
+                        "minRent": 3300,
+                        "maxRent": 3750,
+                        "totalRentals": 5
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3935,
+                        "minRent": 3935,
+                        "maxRent": 3935,
+                        "totalRentals": 1
+                    }
+                ]
+            },
+            "2022-11": {
+                "averageRent": 2604.24,
+                "minRent": 685,
+                "maxRent": 4600,
+                "totalRentals": 213,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1269.6,
+                        "minRent": 685,
+                        "maxRent": 1791,
+                        "totalRentals": 35
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1477.86,
+                        "minRent": 850,
+                        "maxRent": 2500,
+                        "totalRentals": 81
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 2115.14,
+                        "minRent": 1295,
+                        "maxRent": 2995,
+                        "totalRentals": 64
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2838.48,
+                        "minRent": 1200,
+                        "maxRent": 3800,
+                        "totalRentals": 23
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3656.88,
+                        "minRent": 3295,
+                        "maxRent": 4400,
+                        "totalRentals": 8
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 4267.5,
+                        "minRent": 3935,
+                        "maxRent": 4600,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2022-12": {
+                "averageRent": 2534.49,
+                "minRent": 685,
+                "maxRent": 4400,
+                "totalRentals": 214,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1315.47,
+                        "minRent": 685,
+                        "maxRent": 2500,
+                        "totalRentals": 34
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1506.88,
+                        "minRent": 850,
+                        "maxRent": 2500,
+                        "totalRentals": 81
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 2051.08,
+                        "minRent": 1285,
+                        "maxRent": 2995,
+                        "totalRentals": 65
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2769.35,
+                        "minRent": 1200,
+                        "maxRent": 3800,
+                        "totalRentals": 23
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3596.67,
+                        "minRent": 2995,
+                        "maxRent": 4400,
+                        "totalRentals": 9
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3967.5,
+                        "minRent": 3935,
+                        "maxRent": 4000,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2023-01": {
+                "averageRent": 2514,
+                "minRent": 685,
+                "maxRent": 4400,
+                "totalRentals": 227,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1315,
+                        "minRent": 685,
+                        "maxRent": 2500,
+                        "totalRentals": 40
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1491,
+                        "minRent": 750,
+                        "maxRent": 2700,
+                        "totalRentals": 91
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 2024,
+                        "minRent": 1295,
+                        "maxRent": 2995,
+                        "totalRentals": 61
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2679,
+                        "minRent": 1200,
+                        "maxRent": 3800,
+                        "totalRentals": 24
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3608,
+                        "minRent": 2950,
+                        "maxRent": 4400,
+                        "totalRentals": 9
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3968,
+                        "minRent": 3935,
+                        "maxRent": 4000,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2023-02": {
+                "averageRent": 2520,
+                "minRent": 685,
+                "maxRent": 4400,
+                "totalRentals": 224,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1319,
+                        "minRent": 685,
+                        "maxRent": 2500,
+                        "totalRentals": 39
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1473,
+                        "minRent": 750,
+                        "maxRent": 2700,
+                        "totalRentals": 89
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1997,
+                        "minRent": 1395,
+                        "maxRent": 2895,
+                        "totalRentals": 60
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2744,
+                        "minRent": 1700,
+                        "maxRent": 3800,
+                        "totalRentals": 24
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3675,
+                        "minRent": 2950,
+                        "maxRent": 4400,
+                        "totalRentals": 9
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3910,
+                        "minRent": 3795,
+                        "maxRent": 4000,
+                        "totalRentals": 3
+                    }
+                ]
+            },
+            "2023-03": {
+                "averageRent": 1844,
+                "minRent": 750,
+                "maxRent": 4400,
+                "totalRentals": 216,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1236,
+                        "minRent": 995,
+                        "maxRent": 1415,
+                        "totalRentals": 23
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1470,
+                        "minRent": 750,
+                        "maxRent": 2700,
+                        "totalRentals": 91
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1948,
+                        "minRent": 1295,
+                        "maxRent": 2895,
+                        "totalRentals": 67
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2693,
+                        "minRent": 1700,
+                        "maxRent": 3595,
+                        "totalRentals": 24
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3676,
+                        "minRent": 2950,
+                        "maxRent": 4400,
+                        "totalRentals": 9
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3898,
+                        "minRent": 3795,
+                        "maxRent": 4000,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2023-04": {
+                "averageRent": 1757,
+                "minRent": 500,
+                "maxRent": 4200,
+                "totalRentals": 225,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1232,
+                        "minRent": 995,
+                        "maxRent": 1555,
+                        "totalRentals": 27
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1436,
+                        "minRent": 500,
+                        "maxRent": 2700,
+                        "totalRentals": 98
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1909,
+                        "minRent": 1295,
+                        "maxRent": 2895,
+                        "totalRentals": 70
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2580,
+                        "minRent": 850,
+                        "maxRent": 4000,
+                        "totalRentals": 21
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3676,
+                        "minRent": 2950,
+                        "maxRent": 4200,
+                        "totalRentals": 7
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3898,
+                        "minRent": 3795,
+                        "maxRent": 4000,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2023-05": {
+                "averageRent": 1767,
+                "minRent": 500,
+                "maxRent": 4995,
+                "totalRentals": 226,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1226,
+                        "minRent": 995,
+                        "maxRent": 1555,
+                        "totalRentals": 27
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1425,
+                        "minRent": 500,
+                        "maxRent": 2700,
+                        "totalRentals": 97
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1882,
+                        "minRent": 1295,
+                        "maxRent": 3100,
+                        "totalRentals": 70
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2615,
+                        "minRent": 850,
+                        "maxRent": 3900,
+                        "totalRentals": 19
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3530,
+                        "minRent": 750,
+                        "maxRent": 4995,
+                        "totalRentals": 11
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3898,
+                        "minRent": 3795,
+                        "maxRent": 4000,
+                        "totalRentals": 2
+                    }
+                ]
+            },
+            "2023-06": {
+                "averageRent": 1769,
+                "minRent": 500,
+                "maxRent": 4995,
+                "totalRentals": 216,
+                "detailed": [
+                    {
+                        "bedrooms": 0,
+                        "averageRent": 1238,
+                        "minRent": 995,
+                        "maxRent": 1555,
+                        "totalRentals": 28
+                    },
+                    {
+                        "bedrooms": 1,
+                        "averageRent": 1428,
+                        "minRent": 500,
+                        "maxRent": 2700,
+                        "totalRentals": 91
+                    },
+                    {
+                        "bedrooms": 2,
+                        "averageRent": 1887,
+                        "minRent": 1295,
+                        "maxRent": 3100,
+                        "totalRentals": 67
+                    },
+                    {
+                        "bedrooms": 3,
+                        "averageRent": 2651,
+                        "minRent": 850,
+                        "maxRent": 3900,
+                        "totalRentals": 18
+                    },
+                    {
+                        "bedrooms": 4,
+                        "averageRent": 3553,
+                        "minRent": 750,
+                        "maxRent": 4995,
+                        "totalRentals": 10
+                    },
+                    {
+                        "bedrooms": 5,
+                        "averageRent": 3898,
+                        "minRent": 3795,
+                        "maxRent": 4000,
+                        "totalRentals": 2
+                    }
+                ]
+            }
+        }
+    }
+}
